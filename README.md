@@ -1,4 +1,4 @@
-##__GFG-POTD-Solution__
+##GFG-POTD-Solution
 
 
 This repository contains my solutions to the GeeksforGeeks Practice of the Day (POTD) problems.
