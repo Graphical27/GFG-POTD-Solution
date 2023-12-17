@@ -28,4 +28,4 @@ Contributions are appreciated! If you have alternative approaches, optimized sol
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Official website for GeeksforGeeks.
 - [GeeksforGeeks POTD](https://practice.geeksforgeeks.org/topic-tags/#POTD) - Practice of the Day problems.
 
-Feel free to adjust this template to better fit your specific repository needs or include any additional information you find relevant.
+
